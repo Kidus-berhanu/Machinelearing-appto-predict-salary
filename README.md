@@ -1,1 +1,1 @@
-# Machinelearing-appto-predict-salary
+# Machinelearning-appto-predict-salary
